@@ -1,0 +1,8 @@
+lat,lon,desc,intel_type,source,priority
+28.6139,77.2090,Suspicious vehicle convoy observed near Connaught Place,HUMINT,Field Agent ALPHA,HIGH
+19.0760,72.8777,Open-source satellite data confirms port expansion,OSINT,Commercial SAT Feed,MED
+12.9716,77.5946,IMINT confirms new construction at identified coordinates,IMINT,SAT-7B Tasking,CRITICAL
+17.3850,78.4867,Social media chatter spike around Hyderabad tech corridor,OSINT,SOCMINT Module,LOW
+22.5726,88.3639,HUMINT source reports meeting at Kolkata port facility,HUMINT,Field Agent BRAVO,HIGH
+23.0225,72.5714,Unusual aircraft movement pattern logged near Ahmedabad,IMINT,Air OSINT Feed,MED
+26.9124,75.7873,Multiple unverified reports of convoy movement — Jaipur sector,HUMINT,Signal Source 3,LOW
