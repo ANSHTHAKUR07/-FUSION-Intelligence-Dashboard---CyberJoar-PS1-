@@ -6,3 +6,36 @@ lat,lon,desc,intel_type,source,priority
 22.5726,88.3639,HUMINT source reports meeting at Kolkata port facility,HUMINT,Field Agent BRAVO,HIGH
 23.0225,72.5714,Unusual aircraft movement pattern logged near Ahmedabad,IMINT,Air OSINT Feed,MED
 26.9124,75.7873,Multiple unverified reports of convoy movement — Jaipur sector,HUMINT,Signal Source 3,LOW
+28.7041,77.1025,Drone activity detected near restricted zone,IMINT,UAV Feed Node,CRITICAL
+18.5204,73.8567,Online forum suggests coordinated protest activity,OSINT,SOCMINT Module,MED
+15.2993,74.1240,HUMINT confirms arms transfer along coastal route,HUMINT,Field Agent DELTA,HIGH
+11.0168,76.9558,Satellite imagery shows new warehouse structure,IMINT,SAT-9A Feed,MED
+21.1702,72.8311,Financial data spike linked to shell entities,OSINT,FinIntel Engine,HIGH
+25.3176,82.9739,HUMINT indicates increased movement in border villages,HUMINT,Field Agent CHARLIE,MED
+9.9312,76.2673,Unusual maritime movement detected offshore,IMINT,Naval SATCOM,CRITICAL
+27.1767,78.0081,Social chatter indicates planned gathering,Taj region,OSINT,SOCMINT Module,LOW
+13.6288,79.4192,HUMINT suggests underground meeting activity,HUMINT,Agent FOXTROT,HIGH
+24.5854,73.7125,Satellite detects terrain disturbance in remote sector,IMINT,SAT Recon Unit,MED
+30.7333,76.7794,OSINT flags unusual procurement of materials,OSINT,Trade Monitor,HIGH
+16.5062,80.6480,Field agent reports suspicious truck convoy,HUMINT,Agent ECHO,CRITICAL
+34.0837,74.7973,IMINT identifies potential bunker construction,IMINT,SAT-Infra Scan,HIGH
+20.2961,85.8245,Social chatter spike around logistics hub,OSINT,SOCMINT Module,MED
+29.9457,78.1642,HUMINT reports night-time movement near facility,HUMINT,Agent DELTA,LOW
+10.8505,76.2711,Satellite imagery shows road extension work,IMINT,SAT-Infra Scan,LOW
+8.5241,76.9366,Maritime anomaly detected in coastal waters,IMINT,Naval Feed,HIGH
+31.1048,77.1734,OSINT detects rise in encrypted communication,OSINT,SIGINT Proxy,CRITICAL
+25.5941,85.1376,HUMINT indicates gathering of unknown individuals,HUMINT,Agent BRAVO,MED
+23.3441,85.3096,IMINT confirms structural expansion in facility,IMINT,SAT-7B Tasking,HIGH
+26.8467,80.9462,Online chatter suggests coordinated event,OSINT,SOCMINT Module,LOW
+32.7266,74.8570,HUMINT reports cross-border activity,HUMINT,Agent ALPHA,CRITICAL
+22.7196,75.8577,Satellite shows increased vehicle density,IMINT,SAT Traffic Feed,MED
+19.2183,72.9781,OSINT flags abnormal social media trends,OSINT,SOCMINT Module,LOW
+28.5355,77.3910,HUMINT source indicates covert meeting,HUMINT,Agent CHARLIE,HIGH
+13.3392,74.7421,IMINT detects possible infrastructure buildup,IMINT,SAT Recon,HIGH
+21.1458,79.0882,OSINT reports financial irregularities,OSINT,FinIntel Engine,MED
+17.6868,83.2185,HUMINT notes suspicious cargo movement,HUMINT,Agent ECHO,CRITICAL
+11.2588,75.7804,Satellite imagery shows terrain disruption,IMINT,SAT Scan Unit,LOW
+30.9010,75.8573,OSINT flags procurement anomaly,OSINT,Trade Monitor,HIGH
+27.3314,88.6138,HUMINT suggests cross-border communication,HUMINT,Agent FOXTROT,MED
+18.1124,79.0193,IMINT detects unusual signal patterns,IMINT,SAT Signal Scan,HIGH
+24.8170,93.9368,OSINT chatter spike in remote region,OSINT,SOCMINT Module,LOW
